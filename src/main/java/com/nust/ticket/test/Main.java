@@ -32,6 +32,8 @@ public class Main {
             Collections.sort(list, comparator);
             int result = list.get(0).getKey();
             System.out.println(result);
+
+            System.out.println("666666666");
         }
     }
 
